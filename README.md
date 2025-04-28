@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProximalElk6186
 - 👀 I’m interested in making video games in Unity
-- 🌱 I’m currently learning C#, Assembly (asm68k & x86 assembly to be exact), HTML + CSS + JS
+- 🌱 I’m currently learning C#, C, Assembly (asm68k & x86 assembly to be exact), HTML + CSS + JS
 - sonic
 
 <!---
